@@ -1,11 +1,11 @@
 {
-  "name": "@cloudant/cloudant",
-  "description": "Cloudant Node.js client",
+  "name": "tabtor-cloudant",
+  "description": "Tabtor Cloudant Node.js client",
   "license": "Apache-2.0",
   "homepage": "http://github.com/cloudant/nodejs-cloudant",
   "repository": {
     "type": "git",
-    "url": "git@github.com:cloudant/nodejs-cloudant.git"
+    "url": "git+https://nikhilprazas@github.com/PrazAs/cloudant.git"
   },
   "version": "2.0.0-SNAPSHOT",
   "author": {
